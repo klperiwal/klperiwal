@@ -1,7 +1,8 @@
 ### Hi there Kishan Periwal this side!!👋
+- Studying at NIT Jalandhar
 - 🔭 I’m currently working on Data Analytics.
-
-
+- 👯 I’m looking to collaborate on Web Dev and Data Science.
+- 📫 How to reach me: https://www.linkedin.com/in/klperiwal/
 
 
 <!--
