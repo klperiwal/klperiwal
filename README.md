@@ -1,8 +1,10 @@
 ### Hi there Kishan Periwal this side!!👋
 - Studying at NIT Jalandhar
-- 🔭 I’m currently working on Data Analytics.
+- 🔗 Ask me about Competitive Programming, DSA, and Python.
+- 🔭 I’m currently working on Machine Learning and Deep Learning.
 - 👯 I’m looking to collaborate on Web Dev and Data Science.
-- 📫 How to reach me: https://www.linkedin.com/in/klperiwal/
+- 📫 Linkedin Profile: https://www.linkedin.com/in/klperiwal
+- ✉️ Reach to me via email: [klperiwal@gmail.com](url)
 
 
 <!--
