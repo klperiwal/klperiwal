@@ -1,7 +1,6 @@
 ### Hi there, Kishan Periwal this side!!👋
-- Studying at NIT Jalandhar
-- 💬 Ask me about Competitive Programming, DS, Algorithms and Python.
-- 👯 I’m looking to collaborate on Data Analytics and Visualisation.
+- Product Analyst at BirlaPivot, Aditya Birla Group.
+- 💬 Ask me about Competitive Programming, DS, Algorithms and ML.
 - 🔭 I’m currently working on Machine Learning and NLP.
 - 📫 Reach to me via email: [klperiwal@gmail.com](url)
 
